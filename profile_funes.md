@@ -5,3 +5,6 @@
 
 ## Lastnames
 - Funes Chavez
+
+## Age
+- 22
